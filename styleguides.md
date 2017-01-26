@@ -6,6 +6,7 @@
 - Consistent header navigation that tucks away the main navigation for full page view
 - Use of expand collapse for menu items since components can become numerous
 - Resizable preview window for the component being viewed
+- Method to allow the user to see the component in the full browser window
 - Tabs for
 	- HTML
 	- View (i.e., Template Version of Markup)
